@@ -3,7 +3,9 @@
 #include <time.h>
 
 /**
- * Main - main function to generate a random number
+ * main - main function to generate a random number
+ *
+ * Description: The program descript
  *
  * Return: Always 0 (Success)
  *
