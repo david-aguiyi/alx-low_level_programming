@@ -8,7 +8,7 @@
  * Return: Always 0 (Success)
  *
  */
-main(void)
+int main(void)
 {
 	int n;
 	int num;
@@ -30,4 +30,4 @@ main(void)
 		printf("%d and is 0\n", num);
 	}
 	return (0);
-};
+}
